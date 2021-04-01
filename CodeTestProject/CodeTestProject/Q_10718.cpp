@@ -2,6 +2,13 @@
 
 int main()
 {
-    //We love Kriii
-    std::cout << "강한친구 대한육군 \n강한친구 대한육군\n";
+    //사칙연산
+    int a;
+    int b;
+    std::cin >> a >> b;
+    std::cout << a + b << std::endl;
+    std::cout << a - b << std::endl;
+    std::cout << a * b << std::endl;
+    std::cout << a / b << std::endl;
+    std::cout << a % b << std::endl;
 }
