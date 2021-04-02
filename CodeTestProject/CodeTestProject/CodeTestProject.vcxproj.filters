@@ -13,37 +13,61 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Level1">
+      <UniqueIdentifier>{d41b58f4-bddb-4009-a49d-0306159e836d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Level2">
+      <UniqueIdentifier>{5f4d4ff7-d22e-498b-ad8f-be1c06e5c4d8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Q_2557.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Q_10718.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Q_10869.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Q_10172.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Q_10171.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Q_1000.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Q_10998.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Level1</Filter>
     </ClCompile>
     <ClCompile Include="Q_1008.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_2557.cpp">
+      <Filter>Source Files\Level1</Filter>
     </ClCompile>
     <ClCompile Include="Q_2588.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_10171.cpp">
+      <Filter>Source Files\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_10172.cpp">
+      <Filter>Source Files\Level1</Filter>
     </ClCompile>
     <ClCompile Include="Q_10430.cpp">
+      <Filter>Source Files\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_10718.cpp">
+      <Filter>Source Files\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_10869.cpp">
+      <Filter>Source Files\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_10998.cpp">
+      <Filter>Source Files\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_1110.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_1330.cpp">
+      <Filter>Source Files\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_9498.cpp">
+      <Filter>Source Files\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_2753.cpp">
+      <Filter>Source Files\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_14681.cpp">
+      <Filter>Source Files\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_2884.cpp">
+      <Filter>Source Files\Level2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
