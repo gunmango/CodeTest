@@ -19,6 +19,9 @@
     <Filter Include="Source Files\Level2">
       <UniqueIdentifier>{5f4d4ff7-d22e-498b-ad8f-be1c06e5c4d8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Level3">
+      <UniqueIdentifier>{d476d492-ef4c-466f-b6e2-a68c17c21198}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q_1000.cpp">
@@ -68,6 +71,18 @@
     </ClCompile>
     <ClCompile Include="Q_2884.cpp">
       <Filter>Source Files\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2739.cpp">
+      <Filter>Source Files\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="10950.cpp">
+      <Filter>Source Files\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="8393.cpp">
+      <Filter>Source Files\Level3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
