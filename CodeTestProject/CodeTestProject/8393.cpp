@@ -4,15 +4,13 @@ int main()
 {
     //гу
 
-    int num;
+    int num,total =0;
     std::cin >> num;
 
-    for (int i = 0;i < count;i++)
+    for (int i = 1;i <= num;i++)
     {
-        int num1, num2;
-        std::cin >> num1 >> num2;
-
-        std::cout << num1 + num2 << std::endl;
+        total += i;
     }
+    std::cout << total << std::endl;
 
 }
